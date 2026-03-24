@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "io.github.jared6060.steepmaterialconditionfix.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "steepmaterialconditionfix.refmap.json",
+	"mixins": [
+		"MixinSteepMaterialCondition"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}
